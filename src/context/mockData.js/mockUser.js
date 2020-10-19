@@ -25,10 +25,10 @@ export default {
   "hireable": true,
   "bio": "Developer | Competitive Programmer | Chess Enthusiast",
   "twitter_username": null,
-  "public_repos": 15,
+  "public_repos": 16,
   "public_gists": 0,
   "followers": 5,
   "following": 6,
   "created_at": "2019-08-24T18:19:17Z",
-  "updated_at": "2020-10-15T05:25:53Z"
+  "updated_at": "2020-10-19T15:16:31Z"
 };
