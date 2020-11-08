@@ -1,4 +1,4 @@
-export default [
+[
   {
     "login": "nayakashutosh9",
     "id": 43809818,
@@ -99,4 +99,4 @@ export default [
     "type": "User",
     "site_admin": false
   }
-];
+]
