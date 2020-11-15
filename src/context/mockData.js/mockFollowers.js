@@ -1,4 +1,4 @@
-[
+export default [
   {
     "login": "nayakashutosh9",
     "id": 43809818,

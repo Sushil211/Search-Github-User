@@ -1,4 +1,4 @@
-[
+export default [
   {
     "id": 277904153,
     "node_id": "MDEwOlJlcG9zaXRvcnkyNzc5MDQxNTM=",

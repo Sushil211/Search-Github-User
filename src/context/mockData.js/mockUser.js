@@ -1,4 +1,4 @@
-{
+export default {
   "login": "Sushil211",
   "id": 54482089,
   "node_id": "MDQ6VXNlcjU0NDgyMDg5",
